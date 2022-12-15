@@ -1,5 +1,7 @@
 # Steam Chat Offline Archiver
 
+<img src="readme/drag_n_drop.gif">
+
 This little tool will help you safely back up your favourite Steam chats with your friends.
 As you can see from the source code, this tool is 100% local, it does not use any network calls or require login to your account, so you data privacy will not be affected.
 
