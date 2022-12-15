@@ -23,4 +23,4 @@ What it does?
 - Removes all JavaScript files from the data folder
 - Injects custom JavaScript and styles directly into the `.htm/.html` file that fixes many of the issues and makes the chat as usable as in the online version
 
-`Tip:` To compile this yourself you can use my hardcore custom [Notepad++ IDE tools](https://github.com/ScienceDiscoverer/npp_msvc_ide) or you can change it up a bit to work in MSVC IDE, it uses same compiler and toolchain, anyways.
+`Tip:` To compile this yourself you can use my hardcore custom [Notepad++ IDE tools](https://github.com/ScienceDiscoverer/npp_msvc_ide) or you can change it up a bit to work in MSVC IDE, it uses same compiler and toolchain, anyways. [Go here](https://github.com/ScienceDiscoverer/sd_std_libs) to learn more about my custom libriaries used here.
