@@ -14,7 +14,7 @@ All you have to do is follow this steps:
 5. At this point, you might try to open the local file. But you will be quickly disappointed. Steam Throbber will forever block your chat while trying to connect to servers. You can remove all .js files to make it go away, but, all the chat functions will be broken. You can't play videos, watch YouTube videos, resize stuff, etc. My program fixes all this problems instantly (although this took ages to implement =(
 6. Just drag-n-drop your `.htm` or `.html` file onto the `sarch.exe` and your done! The chat archive will be fixed (alternatively, you can pass full path to the `.htm` or `.html` file via command line or shortcut)
 
-Note: your data folder must be named exactly the same as `.htm/.html` file with `_files` in the end (i.e. `Foo_Bar6934.htm`  --->  `Foo_Bar6934_files`)
+*Note: your data folder must be named exactly the same as `.htm/.html` file with `_files` in the end (i.e. `Foo_Bar6934.htm`  --->  `Foo_Bar6934_files`)*
 
 What it does?
 
@@ -22,3 +22,5 @@ What it does?
 - Fixes short videos not beginning to play instantly
 - Removes all JavaScript files from the data folder
 - Injects custom JavaScript and styles directly into the `.htm/.html` file that fixes many of the issues and makes the chat as usable as in the online version
+
+`Tip:` To compile this yourself you can use my hardcore custom [Notepad++ IDE tools](https://github.com/ScienceDiscoverer/npp_msvc_ide) or you can change it up a bit to work in MSVC IDE, it uses same compiler and toolchain, anyways.
